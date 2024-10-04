@@ -23,7 +23,7 @@ Caso queira rodar o projeto na sua máquina e pegar o modelo, segue o passo a pa
    git clone https://github.com/seuusuario/nomedoprojeto.git
 
 2. Navegue até o diretório do projeto:
-   ``bash
+   ```bash
    cd nomedoprojeto
 
 3. Pronto, agora é só abrir o diretório em algum editor de sua preferência. 🤝
@@ -34,6 +34,7 @@ Este projeto não está aberto para contribuições.
 
 # Contato 📬
 Email: carlostechsoftware@hotmail.com
+
 LinkedIn: https://www.linkedin.com/in/carlosrios04/
 
 
